@@ -1,3 +1,14 @@
-Projeto do 3º período no CTD (Curso Técnico de Desenvolvimento de Software) na disciplina DMP (Desenvolvimento de Software Multiplataforma).
+## Info
+Academic project in 3rd period 2007 / Technical Course in Software Development
 
-Desenvolvido em Java armazenando os dados em MySQL. =)
+DMP (Desenvolvimento de Software Multiplataforma).
+
+Developed in Java with MySQL.
+
+## Credits
+[Ido Lima](mailto:idoferreiralima@gmail.com)
+
+[Waldson Moura](mailto:mourawaldson@gmail.com)
+
+## License
+[Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/)
